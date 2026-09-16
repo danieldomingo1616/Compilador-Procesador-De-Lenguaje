@@ -1,0 +1,93 @@
+TABLA LOCAL #2:
+*LEXEMA: 'v'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: '-'
+	+ clase: 'PARAM'
+----------------------------------------
+TABLA LOCAL #3:
+*LEXEMA: 'v'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: '-'
+	+ clase: 'PARAM'
+----------------------------------------
+TABLA LOCAL #4:
+*LEXEMA: 'v1'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: '-'
+	+ clase: 'PARAM'
+*LEXEMA: 'v2'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 2
+	+ Param: '-'
+	+ clase: 'PARAM'
+*LEXEMA: 'v3'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 4
+	+ Param: '-'
+	+ clase: 'PARAM'
+----------------------------------------
+TABLA LOCAL #5:
+*LEXEMA: 'v'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: '-'
+	+ clase: 'PARAM'
+----------------------------------------
+TABLA LOCAL #6:
+----------------------------------------
+TABLA PRINCIPAL #1:
+*LEXEMA: 'a'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: '-'
+	+ clase: 'VAR'
+*LEXEMA: 'b'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 2
+	+ Param: '-'
+	+ clase: 'VAR'
+*LEXEMA: 'resultado'
+	Atributos:
+	+ Tipo: 'l�gico'
+	+ Despl: 4
+	+ Param: '-'
+	+ clase: 'VAR'
+*LEXEMA: 'duplicar'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: 'entero'
+	+ clase: 'FUNC'
+*LEXEMA: 'cuadrado'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: 'entero'
+	+ clase: 'FUNC'
+*LEXEMA: 'sumarTres'
+	Atributos:
+	+ Tipo: 'entero'
+	+ Despl: 0
+	+ Param: 'entero'
+	+ clase: 'FUNC'
+*LEXEMA: 'complejo'
+	Atributos:
+	+ Tipo: 'l�gico'
+	+ Despl: 0
+	+ Param: 'entero'
+	+ clase: 'FUNC'
+*LEXEMA: 'main'
+	Atributos:
+	+ Tipo: '-'
+	+ clase: 'FUNC'
